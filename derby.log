@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sun Mar 25 13:48:20 ACDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0162-5b29-f355-00000360b6b8 
+on database directory C:\Users\rhino_000\Documents\NetBeansProjects\ForeverYoung\derbyDB with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_111/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\rhino_000\Documents\NetBeansProjects\ForeverYoung
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 25 13:48:32 ACDT 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Mar 25 13:48:33 ACDT 2018:
+Shutting down instance a816c00e-0162-5b29-f355-00000360b6b8 on database directory C:\Users\rhino_000\Documents\NetBeansProjects\ForeverYoung\derbyDB with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+----------------------------------------------------------------
